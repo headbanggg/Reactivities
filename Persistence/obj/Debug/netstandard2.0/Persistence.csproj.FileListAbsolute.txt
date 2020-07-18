@@ -1,0 +1,12 @@
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/mine/Documents/kişiselprojelerim/dotnetcore/tutorial/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
