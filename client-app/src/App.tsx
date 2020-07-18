@@ -1,6 +1,9 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
+
+import logo, { ReactComponent } from './logo.svg';
 import './App.css';
+import axios from 'axios';
+import React, { Component } from 'react';
+
 
 class App extends Component{
   state={
@@ -8,9 +11,14 @@ class App extends Component{
   }
 
   componentDidMount(){
-    this.setState({
-      values :[{id:1,name:'value101'},{id:2,name:'value102'}]
+    axios.get('http://localhost:5000/api/values/')
+    .then((response) => {
+      console.log(response)
+      this.setState({
+        values :response.data
+      })
     })
+    
   }
   render() {
     return (
