@@ -23,6 +23,8 @@ namespace API
                     var context = services.GetRequiredService<DataContext>();
                     //database yoksa database i yaratıyor
                     context.Database.Migrate();
+                    //dummy datalarımızı oluşturmak için
+                    Seed.SeedData(context);
                 }
                 catch(Exception ex){
                     var logger = services.GetRequiredService<ILogger<Program>>();
