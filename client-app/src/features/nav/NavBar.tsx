@@ -4,7 +4,7 @@ import "semantic-ui-css/semantic.min.css";
 
 export const NavBar = () => {
     return (
-        <div className="ui inverted menu" >
+        <Menu fixed ='top' inverted >
             <Container>
                 <Menu.Item header>
                     <img src="/assets/logo.png" alt="logo"/>
@@ -15,7 +15,7 @@ export const NavBar = () => {
                     <Button positive content ='Create Activity'/>
                 </Menu.Item>
             </Container>  
-        </div>
+        </Menu>
     )
 }
 export default NavBar
