@@ -18,3 +18,6 @@ const Activities = {
     update: (activity: IActivity) => requests.put(`/activities/${activity.id}`,activity),
     delete: (id:string) => requests.del(`/activities/${id}`),
 }
+export default  {
+    Activities
+}
